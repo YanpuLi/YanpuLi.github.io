@@ -77,12 +77,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  name             : "Yanpu/ Lesley"
+  avatar           : "img.JPG"
+  bio              : "A Data Science Student"
+  location         : 
   employer         : 
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : 
   email            : 
   uri              : 
   bitbucket        :
@@ -91,19 +91,19 @@ author:
   flickr           :
   facebook         : 
   foursquare       :
-  github           : "academicpages"
+  github           : "https://github.com/YanpuLi"
   google_plus      :
   keybase          :
   instagram        : 
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/yanpu-li-4b3923b0"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
