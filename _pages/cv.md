@@ -18,7 +18,8 @@ Education
 Work experience
 ======
 * Data Analyst Intern, CloudParticle 
-  * Participated in a wide range of data analysis projects, including vehicle rental reservation, credit card authorization recycling prediction, Google Adwords campaign automatic monitor; Responsible for build pipeline to do data preprocess, feature engineering, model selection and evaluation
+  * Participated in a wide range of data analysis projects, including vehicle rental reservation, credit card authorization recycling prediction, Google Adwords campaign automatic monitor
+  * Responsible for build pipeline to do data preprocess, feature engineering, model selection and evaluation
 
 * Data Engineer Intern, Pfizer
   * Enabled automatic process for Hadoop ingestion of data from multiple sources, created scripts to parse multi-formats data into json and parquet format
