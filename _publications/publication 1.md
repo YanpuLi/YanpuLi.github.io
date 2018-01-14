@@ -1,11 +1,10 @@
 ---
-title: "11"
+title: "A computational method for predicting regulation of human microRNAs on the influenza virus genome"
 collection: publications
 permalink: /publications/publication 1
-venue: "Journal 1"
+venue: "BMC Systems Biology"
 excerpt: 'This '
-date: 2009-10-01
-paperurl: http://academicpages.github.io/files/paper1.pdf
-citation: 'Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).'
+date: 2013-10-14
+paperurl: http://yanpuli.github.io/files/paper1.pdf
 ---
 
