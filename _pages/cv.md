@@ -58,6 +58,10 @@ Publications
 
 * Hao Zhang et al. A computational method for predicting regulation of human microRNAs on the influenza virus genome. BMC Systems Biology. 7(Suppl 2):S3 doi:10.1186/1752-0509-7-S2-S3, 2013.
 
+ <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
 Honors and Awards
 ======
 * National-level Data Mining Competition Top 20%, Rang Technologies and KVRA tech, 06/2016  
@@ -67,8 +71,6 @@ Honors and Awards
 Hobbies
 ======
 Photograph, Pool, 
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
   
 
