@@ -1,5 +1,4 @@
 ---
-permalink: /
 title: "About Me"
 permalink: /cv/
 excerpt: "About me"
