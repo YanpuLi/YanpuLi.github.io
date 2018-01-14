@@ -3,8 +3,7 @@ title: "A computational method for predicting regulation of human microRNAs on t
 collection: publications
 permalink: /publications/publication 1
 venue: "BMC Systems Biology"
-excerpt: 'This '
 date: 2013-10-14
-paperurl: http://yanpuli.github.io/files/paper1.pdf
+paperurl: https://bmcsystbiol.biomedcentral.com/articles/10.1186/1752-0509-7-S2-S3
 ---
 
