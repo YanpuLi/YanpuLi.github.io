@@ -57,12 +57,7 @@ Projects
 Publications
 ======
 * Hao Zhang, Yanpu Li et al. Role of plant MicroRNA in cross-species regulatory networks of humans, BMC Systems Biology (2016) 10:60
-<li>
-    <a href="./papers/ICCV_2015_Semantic.pdf">Semantic Segmentation With Object Clique Potential,</br></a>
-    Xiaojuan Qi, Jianping Shi, Shu Liu, <b>Renjie Liao</b>, Jiaya Jia.</br>
-    <em>IEEE International Conference on Computer Vision</em> (<b>ICCV</b>), 2015.  </br>
-    <p style="margin-top:3px"></p>
-</li>
+
 * Hao Zhang et al. A computational method for predicting regulation of human microRNAs on the influenza virus genome. BMC Systems Biology. 7(Suppl 2):S3 doi:10.1186/1752-0509-7-S2-S3, 2013.
 
 Honors and Awards
