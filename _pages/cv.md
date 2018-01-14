@@ -63,12 +63,10 @@ Honors and Awards
 * National-level Data Mining Competition Top 20%, Rang Technologies and KVRA tech, 06/2016  
 * Graduate Qualifying Project Team Winner Award, WPI, 05/2016
 * Data Science Travel Award 2015 for Grace Hopper Celebration of Women in Computing Conference Attendance, WPI, 06/2015                                        
+
 Hobbies
 ======
-Photograph, Pool
-
-Publications
-======
+Photograph, Pool, 
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
