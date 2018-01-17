@@ -1,4 +1,5 @@
 ---
+layout: archive
 title: "NYC Subway 'Hotcars' Visualization "
 excerpt: <br/><img src='/images/nyc subway.jpg'>
 collection: portfolio
