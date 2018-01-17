@@ -1,6 +1,6 @@
 ---
 title: "NYC Subway 'Hotcars' Visualization "
-
+excerpt: <br/><img src='/images/nyc subway.jpg'>
 collection: portfolio
 ---
 
@@ -8,4 +8,4 @@ collection: portfolio
 
 In total, there were nearly 6,500 “hot cars” over the five-year period covered by the data. Unsurprisingly, the vast majority of those incidents occurred during the hottest months of the year. This problem brings a very bad experience for the users, as they described that it was a horrendous to be stuck on an underground hot train.
 
-[link] (https://hotcars-nyc.github.io/ "Github").
+[link](#) (https://hotcars-nyc.github.io/ "Github").
