@@ -287,3 +287,5 @@ theme: jekyll-theme-cayman
 
 header:
   image: /assets/images/1.png
+search: true
+search_full_content: true
