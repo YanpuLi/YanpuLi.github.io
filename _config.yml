@@ -4,7 +4,9 @@
 # which you are expected to set up once and rarely need to edit after that.
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
+remote_theme             : "mmistakes/minimal-mistakes"
 
+minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 # Site Settings
 locale                   : "en-US"
 title                    : "Yanpu Li"
@@ -45,6 +47,9 @@ staticman:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
   path                   : # blank (default) uses feed.xml
+
+search: true
+search_full_content: true
 
 # SEO Related
 google_site_verification : 
@@ -285,7 +290,4 @@ compress_html:
 
 theme: jekyll-theme-cayman
 
-header:
-  image: /assets/images/1.png
-search: true
-search_full_content: true
+
