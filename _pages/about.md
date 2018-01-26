@@ -4,8 +4,8 @@ title: "About Me"
 permalink: /
 author_profile: false
 header: 
-  overlay_image: /assets/images/1.png
-  
+  image: /assets/images/1.png
+  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 excerpt: 
 redirect_from: 
   - /about/
