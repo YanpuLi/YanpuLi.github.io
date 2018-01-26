@@ -5,8 +5,11 @@ permalink: /
 author_profile: true
 header: 
   overlay_image: cat.png
-  cta_label: "More Info"
-excerpt: "Welcome, my name is Yanpu.
+  
+excerpt: "
+Welcome, 
+
+my name is Yanpu.
 "
 
 ---
