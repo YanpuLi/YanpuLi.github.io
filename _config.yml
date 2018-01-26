@@ -14,7 +14,7 @@ title_separator          : "-"
 name                     : &name "Yanpu Li"
 description              : &description "personal description"
 url                      : https://yanpuli.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  :  "YanpuLi/YanpuLi.github.io" # the subpath of your site, e.g. "/blog"
+baseurl                  :  # the subpath of your site, e.g. "/blog"
 repository               : "YanpuLi/YanpuLi.github.io"
 teaser                   :  stacking.jpg # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
