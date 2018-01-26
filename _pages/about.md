@@ -2,7 +2,7 @@
 layout: archive
 title: "About Me"
 permalink: /
-author_profile: false
+author_profile: true
 header: 
   overlay_image: cat.png
   
