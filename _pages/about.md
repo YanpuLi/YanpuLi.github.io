@@ -4,7 +4,7 @@ title: "About Me"
 permalink: /
 author_profile: true
 header: 
-  overlay_image: stacking.jpg
+  overlay_image: cat.jpg
   
 excerpt: 
 
