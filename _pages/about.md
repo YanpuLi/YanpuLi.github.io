@@ -4,7 +4,7 @@ title: "About Me"
 permalink: /
 author_profile: false
 header: 
-  overlay_image: /images/cat.jpg
+  overlay_image: /assets/images/1.png
   overlay_filter: 0.5
 excerpt: 
 redirect_from: 
