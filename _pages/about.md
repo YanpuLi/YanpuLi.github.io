@@ -4,7 +4,9 @@ title: "About Me"
 permalink: /
 excerpt: "About me"
 author_profile: true
-header: true
+header:
+  overlay_color: "#5e616c"
+  overlay_image: /images/cat.jpg
 redirect_from: 
   - /about/
   - /about.html
