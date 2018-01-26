@@ -2,14 +2,12 @@
 layout: archive
 title: "About Me"
 permalink: /
-author_profile: false
+author_profile: true
 header: 
   image: /assets/images/1.png
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 excerpt: 
-redirect_from: 
-  - /about/
-  - /about.html
+
 ---
 {% include base_path %}
 
