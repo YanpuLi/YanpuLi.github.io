@@ -1,11 +1,11 @@
 ---
+layout: archive
 title: "About Me"
 permalink: /
 author_profile: false
 header: 
   overlay_image: /images/cat.jpg
   overlay_filter: 0.5
-  caption:
 excerpt: 
 redirect_from: 
   - /about/
