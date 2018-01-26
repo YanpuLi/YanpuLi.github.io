@@ -7,9 +7,7 @@ header:
   overlay_image: cat.png
   
 excerpt: "
-Welcome,  
-
-my name is Yanpu.
+Welcome to Yanpu's blog
 "
 
 ---
