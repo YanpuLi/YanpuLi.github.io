@@ -5,7 +5,7 @@ permalink: /
 author_profile: true
 header: 
   overlay_image: cat.png
-  
+  cta_label: "More Info"
 excerpt: "
 
 
