@@ -4,9 +4,9 @@ title: "About Me"
 permalink: /
 author_profile: true
 header: 
-  image: cat.png
+  overlay_image: cat.png
   
-excerpt: 
+excerpt: "About Me"
 
 ---
 {% include base_path %}
