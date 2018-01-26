@@ -7,7 +7,9 @@ header:
   image: /images/cat.JPG
   
 excerpt: 
-
+redirect_from: 
+  - /about/
+  - /about.html
 ---
 {% include base_path %}
 
