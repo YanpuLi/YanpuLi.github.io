@@ -5,7 +5,7 @@ permalink: /
 author_profile: true
 header: 
   image: /images/cat.JPG
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+  
 excerpt: 
 
 ---
