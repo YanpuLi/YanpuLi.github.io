@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 remote_theme             : "mmistakes/minimal-mistakes"
 
-minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "aqua" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 # Site Settings
 locale                   : "en-US"
 title                    : "Yanpu Li"
@@ -50,6 +50,9 @@ atom_feed:
 
 search: true
 search_full_content: true
+
+header:
+  teaser: /images/cat.jpg
 
 # SEO Related
 google_site_verification : 
