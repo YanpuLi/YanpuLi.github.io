@@ -2,12 +2,12 @@
 layout: archive
 title: "About Me"
 permalink: /
-author_profile: true
+author_profile: false
 header: 
   overlay_image: cat.png
   
 excerpt: "
-Welcome, 
+Welcome,  
 
 my name is Yanpu.
 "
