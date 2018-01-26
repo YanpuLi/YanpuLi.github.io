@@ -6,7 +6,10 @@ author_profile: true
 header: 
   overlay_image: cat.png
   
-excerpt: 
+excerpt: "
+
+
+"
 
 ---
 {% include base_path %}
