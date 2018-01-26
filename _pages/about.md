@@ -4,7 +4,7 @@ title: "About Me"
 permalink: /
 author_profile: true
 header: 
-  image: /images/stacking.JPG
+  image: stacking.JPG
   
 excerpt: 
 redirect_from: 
