@@ -6,9 +6,7 @@ author_profile: true
 header: 
   overlay_image: cat.png
   cta_label: "More Info"
-excerpt: "
-
-
+excerpt: "Welcome, my name is Yanpu.
 "
 
 ---
