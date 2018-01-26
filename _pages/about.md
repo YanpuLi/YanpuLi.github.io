@@ -5,7 +5,7 @@ permalink: /
 author_profile: false
 header: 
   overlay_image: /assets/images/1.png
-  overlay_filter: 0.5
+  
 excerpt: 
 redirect_from: 
   - /about/
