@@ -2,6 +2,7 @@
 title: "NYC Subway 'Hotcars' Visualization "
 excerpt: <br/><img src='/images/nyc subway.jpg'>
 collection: portfolio
+permalink: /portfolio/portfolio-1
 comments: true
 ---
 
