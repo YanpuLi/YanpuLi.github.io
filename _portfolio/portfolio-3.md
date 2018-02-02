@@ -38,7 +38,7 @@ gallery6:
 gallery7:
   - image_path: /b1.jpg
     alt: "building"
-  - image_path: /b2.jpg
+  - image_path: /grad1.jpg
     alt: "building"
 gallery8:
   - image_path: /grad1.jpg
