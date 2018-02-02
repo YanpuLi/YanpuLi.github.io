@@ -4,7 +4,7 @@ excerpt: "<br/><img src='/images/wpi1.jpg'>"
 collection: portfolio
 permalink: /portfolio/portfolio-3
 gallery3:
-  - image_path: /images/wpi2.jpg
+  - image_path: /images/nyc subway.jpg
     alt: "wpi2"
   - image_path: /images/wpi3.jpg
     alt: "wpi3"
