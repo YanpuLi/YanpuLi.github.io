@@ -13,18 +13,18 @@ gallery:
 gallery2:
   - image_path: /aurora1.jpg
     alt: "aurora"
-  - image_path: /aurora2.jpg
-    alt: "aurora"
   - image_path: /aurora3.jpg
+    alt: "aurora"
+  - image_path: /aurora2.jpg
     alt: "aurora"
   - image_path: /aurora5.jpg
     alt: "aurora"
-  - image_path: /aurora4.jpg
-    alt: "aurora"
   - image_path: /aurora6.jpg
     alt: "aurora"
+  - image_path: /aurora7.jpg
+    alt: "aurora"
 gallery3:
-  - image_path: /1.png
+  - image_path: /hp1.png
     alt: "hp"
   - image_path: /hp2.jpg
     alt: "hp"
