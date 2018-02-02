@@ -11,14 +11,15 @@ gallery:
 gallery2:
   - image_path: /aurora1.jpg
     alt: "aurora"
-  - image_path: /aurora5.jpg
+  - image_path: /aurora4.jpg
     alt: "aurora"
 
 gallery4:
   - image_path: /aurora2.jpg
     alt: "aurora"
-  - image_path: /aurora7.jpg
+  - image_path: /aurora5.jpg
     alt: "aurora"
+
 gallery5:
   - image_path: /hp1.jpg
     alt: "hp"
