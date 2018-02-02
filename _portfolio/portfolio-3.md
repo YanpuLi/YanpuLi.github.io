@@ -37,4 +37,4 @@ comments: true
 {% include gallery id="gallery2" class="full" %}
 {% include gallery id="gallery3" class="full" %}
 {% include gallery id="gallery4" class="full" caption="Journey of Aurora <sub>_Photo taken in Mar. 2016_</sub>" %}
-{% include gallery id="gallery5" class="full" caption="Journey of Aurora <sub>_Photo taken in Mar. 2016_</sub>" %}
+{% include gallery id="gallery5" class="full"  %}
