@@ -6,7 +6,7 @@ permalink: /portfolio/portfolio-3
 gallery3:
   - image_path: /images/wpi2.jpg
     alt: "wpi2"
-  - image_path: /assets/images/wpi3.jpg
+  - image_path: /images/wpi3.jpg
     alt: "wpi3"
 
 comments: true
