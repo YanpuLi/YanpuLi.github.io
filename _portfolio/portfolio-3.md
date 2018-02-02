@@ -6,6 +6,7 @@ permalink: /portfolio/portfolio-3
 gallery:
   - image_path: /wpi2.jpg
     alt: "wpi"
+gallery1:
   - image_path: /wpi3.jpg
     alt: "wpi"
 gallery2:
@@ -44,9 +45,11 @@ gallery7:
 comments: true
 ---
 {% include gallery id="gallery6" class="full"  caption="Autumn 2014" %}
-{% include gallery id="gallery" class="full" caption="WPI in Winter Storm Juno 2015 <sub>_Photo taken in Feb. 2015_</sub>" %}
+{% include gallery id="gallery" class="full" %}
+{% include gallery id="gallery1" class="full" caption="Hello Juno 2015 <sub>_Photo taken in Feb. 2015_</sub>" %}
+{% include gallery id="gallery3" "  %}
 {% include gallery id="gallery2" class="full" caption="Journey of Aurora <sub>_Photo taken in Mar. 2016_</sub>" %}
-{% include gallery id="gallery3" class="full"  %}
+
 {% include gallery id="gallery5" class="full"  %}
-{% include gallery id="gallery6" class="full"  %}
-{% include gallery id="gallery7" class="full"  %}
+
+{% include gallery id="gallery7" class="full" caption="Before Graduation" %}
