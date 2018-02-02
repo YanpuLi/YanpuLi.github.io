@@ -15,6 +15,14 @@ gallery2:
     alt: "aurora"
   - image_path: /aurora2.jpg
     alt: "aurora"
+  - image_path: /aurora3.jpg
+    alt: "aurora"
+  - image_path: /aurora4.jpg
+    alt: "aurora"
+  - image_path: /aurora5.jpg
+    alt: "aurora"
+  - image_path: /aurora6.jpg
+    alt: "aurora"
 comments: true
 ---
 **WPI in Winter Storm Juno 2015** <sub>_Photo taken in Feb. 2015_</sub>
