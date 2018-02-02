@@ -5,7 +5,7 @@ collection: portfolio
 permalink: /portfolio/portfolio-3
 gallery3:
   - image_path: /images/nyc subway.jpg
-    alt: "wpi2"
+    alt: "wpi"
   - image_path: /images/wpi3.jpg
     alt: "wpi3"
 
