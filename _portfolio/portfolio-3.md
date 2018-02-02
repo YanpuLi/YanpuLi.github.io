@@ -40,6 +40,11 @@ gallery7:
     alt: "building"
   - image_path: /b2.jpg
     alt: "building"
+gallery8:
+  - image_path: /grad1.jpg
+    alt: "Graduation"
+  - image_path: /b2.jpg
+    alt: "building"
 
 comments: true
 ---
