@@ -3,13 +3,18 @@ title: "Photo Gallery"
 excerpt: "<br/><img src='/images/wpi1.jpg'>"
 collection: portfolio
 permalink: /portfolio/portfolio-3
-gallery3:
-  - image_path: /nyc subway.jpg
+gallery:
+  - image_path: /wpi2.jpg
     alt: "wpi"
-  - image_path: /images/wpi3.jpg
-    alt: "wpi3"
-
+  - image_path: /wpi3.jpg
+    alt: "wpi"
+gallery2:
+  - image_path: /aurora1.jpg
+    alt: "aurora"
+  - image_path: /aurora2.jpg
+    alt: "aurora"
 comments: true
 ---
 **WPI in Winter Storm Juno 2015** <sub>_Photo taken in Feb. 2015_</sub>
-{% include gallery id="gallery3" class="full" caption="This is a third gallery example with two images and fills the entire content container." %}
+{% include gallery id="gallery" class="full" caption="WPI in Winter Storm Juno 2015 <sub>_Photo taken in Feb. 2015_</sub>" %}
+{% include gallery id="gallery2" class="full" caption="Journey of Aurora" %}
