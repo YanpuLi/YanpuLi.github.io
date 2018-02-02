@@ -36,15 +36,11 @@ gallery6:
   - image_path: /tree1.jpg
     alt: "tree"
 gallery7:
-  - image_path: /b1.jpg
-    alt: "building"
-  - image_path: /grad1.jpg
-    alt: "building"
-gallery8:
-  - image_path: /grad1.jpg
-    alt: "Graduation"
   - image_path: /b2.jpg
     alt: "building"
+  - image_path: /grad1.jpg
+    alt: "building"
+
 
 comments: true
 ---
