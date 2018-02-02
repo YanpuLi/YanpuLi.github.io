@@ -23,8 +23,16 @@ gallery2:
     alt: "aurora"
   - image_path: /aurora6.jpg
     alt: "aurora"
+gallery3:
+  - image_path: /hp1.jpg
+    alt: "hp"
+  - image_path: /hp2.jpg
+    alt: "hp"
+  - image_path: /hp3.jpg
+    alt: "hp"
 comments: true
 ---
 **WPI in Winter Storm Juno 2015** <sub>_Photo taken in Feb. 2015_</sub>
 {% include gallery id="gallery" class="full" caption="WPI in Winter Storm Juno 2015 <sub>_Photo taken in Feb. 2015_</sub>" %}
 {% include gallery id="gallery2" class="full" caption="Journey of Aurora <sub>_Photo taken in Mar. 2016_</sub>" %}
+{% include gallery id="gallery3" class="full" caption="Journey of Aurora <sub>_Photo taken in Mar. 2016_</sub>" %}
