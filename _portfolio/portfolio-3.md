@@ -17,9 +17,9 @@ gallery2:
     alt: "aurora"
   - image_path: /aurora3.jpg
     alt: "aurora"
-  - image_path: /aurora4.jpg
-    alt: "aurora"
   - image_path: /aurora5.jpg
+    alt: "aurora"
+  - image_path: /aurora4.jpg
     alt: "aurora"
   - image_path: /aurora6.jpg
     alt: "aurora"
