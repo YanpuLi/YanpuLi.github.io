@@ -11,11 +11,11 @@ gallery:
 gallery2:
   - image_path: /aurora1.jpg
     alt: "aurora"
-  - image_path: /aurora2.jpg
-    alt: "aurora"
   - image_path: /aurora4.jpg
     alt: "aurora"
-
+gallery3:
+  - image_path: /aurora2.jpg
+    alt: "aurora"
 gallery4:
   - image_path: /aurora2.jpg
     alt: "aurora"
@@ -43,10 +43,10 @@ gallery7:
 
 comments: true
 ---
-
+{% include gallery id="gallery6" class="full"  caption="Autumn 2014" %}
 {% include gallery id="gallery" class="full" caption="WPI in Winter Storm Juno 2015 <sub>_Photo taken in Feb. 2015_</sub>" %}
 {% include gallery id="gallery2" class="full" caption="Journey of Aurora <sub>_Photo taken in Mar. 2016_</sub>" %}
-
+{% include gallery id="gallery3" class="full"  %}
 {% include gallery id="gallery5" class="full"  %}
 {% include gallery id="gallery6" class="full"  %}
 {% include gallery id="gallery7" class="full"  %}
