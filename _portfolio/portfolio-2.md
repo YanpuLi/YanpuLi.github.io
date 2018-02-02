@@ -28,12 +28,13 @@ gallery5:
 gallery6:
   - image_path: /hp1.png
     alt: "hp"
-  - image_path: /hp2.jpg
-    alt: "hp"
   - image_path: /hp3.jpg
     alt: "hp"
-
 gallery7:
+  - image_path: /hp2.jpg
+    alt: "hp"
+
+gallery8:
   - image_path: /b2.jpg
     alt: "building"
   - image_path: /grad1.jpg
@@ -51,6 +52,8 @@ comments: true
 
 {% include gallery id="gallery5" caption="Journey of Aurora <sub>_Photo taken in Mar. 2016_</sub>" %}
 
-{% include gallery id="gallery6" class="full" caption="Harbor Point, 2016" %}
+{% include gallery id="gallery6"  class="full" %}
 
-{% include gallery id="gallery7" class="full" caption="Before Graduation, WPI 2016" %}
+{% include gallery id="gallery7" class="full" caption="Harbor Point, 2016" %}
+
+{% include gallery id="gallery8" class="full" caption="Before Graduation, WPI 2016" %}
