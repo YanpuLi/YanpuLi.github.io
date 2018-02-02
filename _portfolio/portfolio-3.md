@@ -49,7 +49,7 @@ gallery8:
 comments: true
 ---
 
-{% include gallery id="gallery" caption="WPI in Winter Storm Juno 2015 <sub>_Photo taken in Feb. 2015_</sub>" %}
+{% include gallery id="gallery" class="full" caption="WPI in Winter Storm Juno 2015 <sub>_Photo taken in Feb. 2015_</sub>" %}
 {% include gallery id="gallery2" class="full" %}
 {% include gallery id="gallery3" class="full" %}
 {% include gallery id="gallery4" class="full" caption="Journey of Aurora <sub>_Photo taken in Mar. 2016_</sub>" %}
