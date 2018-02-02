@@ -45,7 +45,7 @@ comments: true
 
 {% include gallery id="gallery2" class="full" %}
 
-{% include gallery id="gallery3" class="full" caption="Hello Juno 2015 <sub>_Photo taken in Feb. 2015_</sub>" %}
+{% include gallery id="gallery3" caption="Hello Juno 2015 <sub>_Photo taken in Feb. 2015_</sub>" %}
 
 {% include gallery id="gallery4"  class="full" %}
 
