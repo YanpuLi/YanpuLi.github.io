@@ -41,7 +41,6 @@ gallery7:
   - image_path: /grad1.jpg
     alt: "building"
 
-
 comments: true
 ---
 {% include gallery id="gallery6" class="full"  caption="Autumn 2014" %}
