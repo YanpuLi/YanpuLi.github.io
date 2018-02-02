@@ -6,6 +6,8 @@ permalink: /portfolio/portfolio-3
 gallery:
   - image_path: /wpi2.jpg
     alt: "wpi"
+  - image_path: /wpi4.jpg
+    alt: "wpi"
   - image_path: /wpi3.jpg
     alt: "wpi"
 gallery2:
@@ -17,4 +19,4 @@ comments: true
 ---
 **WPI in Winter Storm Juno 2015** <sub>_Photo taken in Feb. 2015_</sub>
 {% include gallery id="gallery" class="full" caption="WPI in Winter Storm Juno 2015 <sub>_Photo taken in Feb. 2015_</sub>" %}
-{% include gallery id="gallery2" class="full" caption="Journey of Aurora" %}
+{% include gallery id="gallery2" class="full" caption="Journey of Aurora <sub>_Photo taken in Mar. 2016_</sub>" %}
