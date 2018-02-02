@@ -12,4 +12,4 @@ gallery3:
 comments: true
 ---
 **WPI in Winter Storm Juno 2015** <sub>_Photo taken in Feb. 2015_</sub>
-
+{% include gallery id="gallery3" class="full" caption="This is a third gallery example with two images and fills the entire content container." %}
