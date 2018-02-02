@@ -26,7 +26,7 @@ gallery5:
     alt: "aurora"
 
 gallery6:
-  - image_path: /hp1.jpg
+  - image_path: /b1.jpg
     alt: "hp"
   - image_path: /hp2.jpg
     alt: "hp"
