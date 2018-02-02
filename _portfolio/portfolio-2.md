@@ -26,7 +26,7 @@ gallery5:
     alt: "aurora"
 
 gallery6:
-  - image_path: /b1.jpg
+  - image_path: /hp1.jpg
     alt: "hp"
   - image_path: /hp2.jpg
     alt: "hp"
@@ -41,16 +41,16 @@ gallery7:
 
 comments: true
 ---
-{% include gallery id="gallery1" class="full"  caption="Autumn 2014" %}
+{% include gallery id="gallery1" class="full"  caption="Autumn, WPI 2014" %}
 
 {% include gallery id="gallery2" class="full" %}
 
-{% include gallery id="gallery3" caption="Hello Juno 2015 <sub>_Photo taken in Feb. 2015_</sub>" %}
+{% include gallery id="gallery3" caption="Hello Juno, WPI 2015 <sub>_Photo taken in Feb. 2015_</sub>" %}
 
 {% include gallery id="gallery4"  class="full" %}
 
 {% include gallery id="gallery5" caption="Journey of Aurora <sub>_Photo taken in Mar. 2016_</sub>" %}
 
-{% include gallery id="gallery6" class="full" caption="Harbor Point" %}
+{% include gallery id="gallery6" class="full" caption="Harbor Point, 2016" %}
 
-{% include gallery id="gallery7" class="full" caption="Before Graduation" %}
+{% include gallery id="gallery7" class="full" caption="Before Graduation, WPI 2016" %}
