@@ -28,7 +28,9 @@
 
     <h2 class="archive__item-title" itemprop="headline">
       {% if post.link %}
-        <p><b>{{ title }}</b></p> 
+        <a href="{{ post.link }}">{{ title }}</a> 
+      {% else %}
+        <a >{{ title }}</a>
       {% endif %}
     </h2>
     
