@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.S. in Computer Science, Henan University, ‘2011’
+* B.S. in Computer Science, Henan University, 2011
 * M.S. in Computer Science, Jilin University, 2014
 * M.S. in Data Science, WPI, 2016 
 
