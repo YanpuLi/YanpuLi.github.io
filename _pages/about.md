@@ -7,7 +7,7 @@ header:
   overlay_image: cat.png
   
 excerpt: "
-Welcome
+Welcome.
 "
 
 ---
