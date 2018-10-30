@@ -46,7 +46,11 @@ layout: default
         {% elsif page.citation %}
           <p>Recommended citation: {{ page.citation }} </p>
         {% endif %}
-    
+
+        {% if page.use_math %}
+          {% include mathjax_support %}
+        {% endif %}
+        
         </header>
       {% endunless %}
 
