@@ -6,9 +6,8 @@ author_profile: true
 header: 
   overlay_image: cat.png
   
-excerpt: "
-"
-
+redirect_from:
+  - /about/
 ---
 
 {% include base_path %}
