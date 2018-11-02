@@ -7,11 +7,9 @@ header:
   overlay_image: cat.png
   
 excerpt: "
-Welcome.
+Welcome :)
 "
-redirect_from: 
-  - /about/
-  - /about.html
+
 ---
 
 {% include base_path %}
