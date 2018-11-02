@@ -1,13 +1,12 @@
 ---
 layout: archive
-title: "About Me"
+title: "Welcome"
 permalink: /
 author_profile: true
 header: 
   overlay_image: cat.png
   
 excerpt: "
-Welcome :)
 "
 
 ---
