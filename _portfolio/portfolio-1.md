@@ -1,6 +1,6 @@
 ---
-title: NYC Subway 'Hotcars' Visualization
-excerpt: <br/><a href="https://hotcars-nyc.github.io/"></a>
+title: <a href="https://hotcars-nyc.github.io/">NYC Subway 'Hotcars' Visualization</a>
+excerpt: 
 collection: portfolio
 permalink: /portfolio/portfolio-1
 comments: true
