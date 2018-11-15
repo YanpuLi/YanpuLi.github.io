@@ -1,5 +1,5 @@
 ---
-title: "NYC Subway 'Hotcars' Visualization "
+title: <a href="https://hotcars-nyc.github.io/">"NYC Subway 'Hotcars' Visualization "</a>
 excerpt: <br/><img src='/images/nyc subway.jpg'>
 collection: portfolio
 permalink: /portfolio/portfolio-1
