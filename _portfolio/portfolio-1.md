@@ -1,6 +1,6 @@
 ---
-title: <a href="https://hotcars-nyc.github.io/">NYC Subway 'Hotcars' Visualization</a>
-excerpt: test
+title: <a href="https://hotcars-nyc.github.io/">NYC Subway 'Hotcars1' Visualization</a>
+excerpt: 
 collection: portfolio
 permalink: /portfolio/portfolio-1
 comments: true
