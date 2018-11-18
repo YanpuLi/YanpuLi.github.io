@@ -23,6 +23,10 @@ Projects
 * NER and RE on Legal Opening Brief, 10/2017
   * Designed BiLSTM-crf model to extract people name entities, location and company, applied CRF model to classify prosecution and defense, with customized accuracy up to 93%
 
+* Vehicle Rental Reservation Strategy Recommendation, CouldParticle, 04/2017
+  * Utilized vehicle rental transaction data to predict which vehicle features are the most important ones 
+  * Built pipeline to do data preprocess, feature engineering. Generated weighted response, used oversampling method to balance dataset; Conducted multiple models such, ensemble them to obtain the best performance
+
 * Spatial Data Analysis: Exploration of MBTA Late Night Service with Crime Dataset, WPI, 05/2016
   * Utilized public APIs to gather around 400,000+ crime data, 4000+ Restaurants data and 240,000+ ridership transaction records, combined three datasets to analyze the influence of MBTA Late Night Service on crime rate around Boston area
   * Converted crime data UTM zone coordinates, implemented DBSCAN and K-means to find the distribution pattern; Applied spatial join on crime, MBTA and restaurant datasets, used PCA for dimension reduction, conducted various classification methods to predict the relationship between ridership frequency and crime rate
@@ -34,7 +38,7 @@ Projects
 Work experience
 ======
 * Data Scientist, Ping An Healthcare Tech, China, present                                                            
-  * Worked on cardiovascular disease and diabetes complication morbidity risk prediction, infectious disease outbreak forecasting, ICU death prediction and Electronic Health Record information extraction 
+  * Worked on cardiovascular disease and diabetes complication morbidity risk prediction, infectious disease outbreak forecasting, ICU death prediction and EHR information extraction 
 
 * Data Analyst Intern, CloudParticle, CA, 05/2017                                                             
   * Participated in a wide range of data analysis projects, including vehicle rental reservation, credit card authorization recycling prediction, Google Adwords campaign automatic monitor
@@ -62,6 +66,7 @@ Publications
 * Hao Zhang, Yanpu Li et al. Role of plant MicroRNA in cross-species regulatory networks of humans, BMC Systems Biology (2016) 10:60
 
 * Hao Zhang et al. A computational method for predicting regulation of human microRNAs on the influenza virus genome. BMC Systems Biology. 7(Suppl 2):S3 doi:10.1186/1752-0509-7-S2-S3, 2013.
+
 
 Honors and Awards
 ======
