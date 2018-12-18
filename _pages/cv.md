@@ -9,43 +9,46 @@ redirect_from:
 
 {% include base_path %}
 
+Research Interest
+======
+Machine Learning, Adversarial Machine Learning, Transfer Learning, Clinical Natural Language Processing
+
 Education
 ======
-* B.S. in Computer Science, Henan University, 2011
-* M.S. in Computer Science, Jilin University, 2014
+* B.E. in Computer Science, Henan University, 2011
+* M.E. in Computer Science, Jilin University, 2014
 * M.S. in Data Science, WPI, 2016 
 
 Projects
 ======
-* National Infectious Disease Outbreak Prediction, 08/2018
-  * Utilized multimodal fusion of disease morbidity incidences, weather history, social network trend and geo-spatial information, implemented VAE-LSTM model to predict infectious disease morbidity rate and outbreak path
+* National Infectious Disease Outbreak Prediction, (Accepted by AMIA 2019 Informatics Summit) 09/2018
+  * Utilized multimodal fusion of disease morbidity incidences, weather history, social network trend and geo-spatial information, implemented VAE-LSTM model to predict infectious disease morbidity rate
 
-* NER and RE on Legal Opening Brief, 10/2017
-  * Designed BiLSTM-crf model to extract people name entities, location and company, applied CRF model to classify prosecution and defense, with customized accuracy up to 93%
+* NER and RE on Legal Opening Brief, 11/2017
+  * Designed BiLSTM-CRF model to extract individual names, location and company, applied CRF model to classify prosecution and defense, with customized accuracy up to 93%
 
 * Spatial Data Analysis: Exploration of MBTA Late Night Service with Crime Dataset, WPI, 05/2016
   * Utilized public APIs to gather around 400,000+ crime data, 4000+ Restaurants data and 240,000+ ridership transaction records, combined three datasets to analyze the influence of MBTA Late Night Service on crime rate around Boston area
-  * Converted crime data UTM zone coordinates, implemented DBSCAN and K-means to find the distribution pattern; Applied spatial join on crime, MBTA and restaurant datasets, used PCA for dimension reduction, conducted various classification methods to predict the relationship between ridership frequency and crime rate
+  * Converted UTM zone coordinates, implemented clustering methods to find the distribution pattern; Applied spatial join on crime, MBTA and restaurant datasets, conducted various classification methods to predict the relationship between ridership frequency and crime rate
 
 * National Data Mining Competition: Bank Customer Satisfaction Degree Prediction, Rang Tech, 06/2016
   * Predicted if customers are satisfied with their banking experience 
-  * Conducted preprocessing steps by replacing NA, dropping outliers, applied feature scaling methods, generated new features based on univariate and bivariate analysis, generated a 2-layer 5-fold stacking model
+  * Generated new features based on univariate and bivariate analysis, applied dimensionality reduction, generated a 2-layer 5-fold stacking model
 
-Work experience
+Professional Experience
 ======
-* Data Scientist, Ping An Healthcare Tech, China, present                                                            
-  * Worked on cardiovascular disease and diabetes complication morbidity risk prediction, infectious disease outbreak forecasting, ICU death prediction and Electronic Health Record information extraction 
+* Data Mining Engineer, Ping An Technology, China, present                                                            
+  * Developed multimodal frameworks by using machine learning and deep learning, focusing on chronic cardiovascular disease risk prediction with low quality and imbalanced data, infectious disease morbidity forecasting and electronic health record information extraction
 
 * Data Analyst Intern, CloudParticle, CA, 05/2017                                                             
   * Participated in a wide range of data analysis projects, including vehicle rental reservation, credit card authorization recycling prediction, Google Adwords campaign automatic monitor
 
 * Data Engineer Intern, Pfizer, CT, 05/2016
-  * Enabled automatic process for Hadoop ingestion of data from multiple sources, created scripts to parse multi-formats data into json and parquet format
+  * Enabled automatic process for Hadoop ingestion of data from multiple sources, created scripts to parse multi-formats data into json and parquet format simultaneously
   * Connected MapR with Spotfire/ Tableau, used Apache Drill to create both json and parquet view to generate overlay visualizations  
 
 * Data Analyst Intern, Zakipoint Health Inc, MA, 12/2015
-  * Developed a web-based simulation and analysis tool with Django framework to preprocess raw Pharmacy claim data, find potential cost driver under various scenarios, and display results by D3.js
-  * Designed the data model, manipulated data storing and querying in mongoDB integrated with PyMongo 
+  * Responsible for health plan potential cost driver analysis, designed the DB schema, manipulated data deployment and querying in mongoDB integrated with PyMongo, created visualizations by D3.js
 
 Research Experience
 ======
@@ -53,7 +56,7 @@ Research Experience
   Biological Identification and Information Security Laboratory
   * Aimed to explore the potential effects of ingeste plants microRNA on human digestive organs                             
   * Designed the main workflow, preprocessed nearly 400,000 pieces of structured and unstructured gene targets, designed a feature extraction based on alignment types
-  * Generated a weighted regulatory network with 782 genes and 2444 interactions, conducted module extraction based on hub node and functional enrichment analysis
+  * Generated a weighted regulatory network with 782 genes and 2444 interactions, applied PageRank to do node ranking, conducted module extraction based on hub node and functional enrichment analysis
 
 Publications
 ======
@@ -68,6 +71,12 @@ Honors and Awards
 * National-level Data Mining Competition Top 20%, Rang Technologies and KVRA tech, 06/2016  
 * Graduate Qualifying Project Team Winner Award, WPI, 05/2016
 * Data Science Travel Award 2015 for Grace Hopper Celebration of Women in Computing Conference Attendance, WPI, 06/2015                                        
+
+Volunteers
+======
+* Volunteer for Open Data Science Conference(ODSC) in Boston, held by ODSC, 05/2015
+* Volunteer for environment protector around Worcester area, picking up trash, cleaning and painting, held by WPI, 10/2015
+
 
 Hobbies
 ======
